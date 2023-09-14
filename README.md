@@ -14,7 +14,7 @@ You will need a text editor and a web browser to work with this project.
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/hello-world-box.git
+git clone https://github.com/maazali01/HelloWorld.git
 
 2. Open the `index.html` file in your web browser to view the "Hello, World!" box.
 
